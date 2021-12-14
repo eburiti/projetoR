@@ -7,3 +7,6 @@ rename()
 # Segunda parte
 join()
 select()
+# Terceira parte
+# Alterações remotas
+summarise()
